@@ -1,0 +1,10 @@
+
+    .texto, .botão {
+        color: aqua;
+        font-weight: bold;
+}
+
+    .botão2 {
+        color: brown;
+        background-color: black;
+    }
